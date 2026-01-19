@@ -1,0 +1,18 @@
+{
+  "app": {
+    "name": "Twilight Chronicle",
+    "subtitle": "Idle RPG",
+    "developer": "BURSTGAME NETWORK LIMITED (HONG KONG)",
+    "description": "A WORLD OF MAGIC AND FANTASY IDLE RPG",
+    "isOfficial": true,
+    "downloads": "100K+",
+    "rating": 5,
+    "size": "677MB",
+    "preOrder": true,
+    "cashback": "Up to 30% cashback on Every Purchase",
+    "partnership": "Official partnership with BURSTGAME NETWORK LIMITED (HONG KONG)",
+    "iconUrl": "https://raw.githubusercontent.com/yourusername/aptoide-data/main/images/app-icon.png",
+    "bannerUrl": "https://raw.githubusercontent.com/yourusername/aptoide-data/main/images/banner.png",
+    "downloadUrl": "https://example.com/download/twilight-chronicle.apk"
+  }
+}
